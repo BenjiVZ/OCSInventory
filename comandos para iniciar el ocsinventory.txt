@@ -1,0 +1,11 @@
+1.  sudo a2enconf phpmyadmin
+
+======================================================
+
+2.  sudo systemctl start apache2
+
+2.  sudo systemctl status apache2
+
+2.  sudo systemctl restart apache2
+
+2.  sudo systemctl stop apache2
